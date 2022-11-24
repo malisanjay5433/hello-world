@@ -1370,6 +1370,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@capacitor/android@npm:^4.5.0":
+  version: 4.5.0
+  resolution: "@capacitor/android@npm:4.5.0"
+  peerDependencies:
+    "@capacitor/core": ^4.4.0
+  checksum: ec8f29d2d77a5b24b219312d01d5dce2d6ff25c4581733b2151e4c49ff97ed98f2c0e83b474dade8a7d4797cb54136f92b8e21ccaebab65cc7ba6fa20e66b825
+  languageName: node
+  linkType: hard
+
 "@cnakazawa/watch@npm:^1.0.3":
   version: 1.0.4
   resolution: "@cnakazawa/watch@npm:1.0.4"
@@ -2588,6 +2597,13 @@ __metadata:
   version: 1.0.1
   resolution: "amdefine@npm:1.0.1"
   checksum: 9d4e15b94641643a9385b2841b4cb2bcf4e8e2f741ea4bd475c93ad7bab261ad4ed827a32e9c549b38b98759c4526c173ae4e6dde8caeb75ee5cebedc9863762
+  languageName: node
+  linkType: hard
+
+"android@npm:^0.0.8":
+  version: 0.0.8
+  resolution: "android@npm:0.0.8"
+  checksum: 269671b625a213ca84a9abce43747422d670c936831e3a4877f019f61f6cec3e81f0159b4d2611ac34387fcc71959c3021de5b92b69abc5c24711f24ed8d797a
   languageName: node
   linkType: hard
 
@@ -7540,10 +7556,12 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "hello-world@workspace:."
   dependencies:
+    "@capacitor/android": ^4.5.0
     "@ember/optional-features": ^2.0.0
     "@ember/test-helpers": ^2.8.1
     "@glimmer/component": ^1.1.2
     "@glimmer/tracking": ^1.1.2
+    android: ^0.0.8
     babel-eslint: ^10.1.0
     broccoli-asset-rev: ^3.0.0
     ember-auto-import: ^2.4.3

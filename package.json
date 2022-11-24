@@ -64,5 +64,9 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "@capacitor/android": "^4.5.0",
+    "android": "^0.0.8"
   }
 }
