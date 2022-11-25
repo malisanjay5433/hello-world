@@ -55,3 +55,10 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+
+
+### App screens
+<img width="300" alt="Android" src= "https://user-images.githubusercontent.com/8912602/203947297-6647f491-ba09-40a5-9ab6-92c8767fb5e7.png">
+<img width="1226" alt="WebApp" src="https://user-images.githubusercontent.com/8912602/203947448-dbff4391-a1e9-4b6b-864d-6295b70bd137.png">
+
